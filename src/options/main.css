@@ -1,5 +1,5 @@
 body {
-    background: #ca5b5d;
+    background: url("bg1.jpg"),url("bg1-med.jpg"),url("bg1-low.jpg");
 }
 
 #clock  {
@@ -15,7 +15,7 @@ body {
     width: 100%;
     text-align: center;
     font-size: 40px;
-    color: #e28081;
+    color: aliceblue;
     font-style: italic;
     font-family: fantasy;
 }
