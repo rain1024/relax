@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 1,
   "description": "Relax: You have 5 minutes to relax, just don't forget to breathe now",
-  "homepage_url": "http://github.com",
+  "homepage_url": "https://github.com/rain1024/relax",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
