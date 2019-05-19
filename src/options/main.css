@@ -1,0 +1,21 @@
+body {
+    background: #ca5b5d;
+}
+
+#clock  {
+    width: 100%;
+    color: aliceblue;
+    font-family: Courier;
+    text-align: center;
+    font-size: 200px;
+    padding-top: 200px;
+}
+
+#meme {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    color: #e28081;
+    font-style: italic;
+    font-family: fantasy;
+}
